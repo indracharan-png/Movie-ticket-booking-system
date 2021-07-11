@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1625935386 source:c:\users\badir\onedrive\desktop\dsa\src\movie.cpp
+	"Movie.h"
+	<iostream>
+	<string>
+
+1625935357 c:\users\badir\onedrive\desktop\dsa\include\movie.h
+	<string>
+	<iostream>
+
+1625937219 source:c:\users\badir\onedrive\desktop\dsa\src\movie1.cpp
+	"Movie1.h"
+	"Movie.h"
+	<iostream>
+
+1625937210 c:\users\badir\onedrive\desktop\dsa\include\movie1.h
+	"Movie.h"
+	<string>
+
+1625937195 source:c:\users\badir\onedrive\desktop\dsa\src\movie2.cpp
+	"Movie2.h"
+	"Movie.h"
+	<iostream>
+
+1625937193 c:\users\badir\onedrive\desktop\dsa\include\movie2.h
+	"Movie.h"
+	<string>
+
+1625935862 source:c:\users\badir\onedrive\desktop\dsa\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"movie.h"
+	"movie1.h"
+	"movie2.h"
+	"movie3.h"
+	"movie4.h"
+
+1625937222 c:\users\badir\onedrive\desktop\dsa\include\movie3.h
+	"Movie.h"
+	<string>
+
+1625937523 c:\users\badir\onedrive\desktop\dsa\include\movie4.h
+	"Movie.h"
+	<string>
+
+1625937335 source:c:\users\badir\onedrive\desktop\dsa\src\movie4.cpp
+	"Movie4.h"
+	"Movie.h"
+	<iostream>
+
+1625937351 source:c:\users\badir\onedrive\desktop\dsa\src\movie3.cpp
+	"Movie3.h"
+	"Movie.h"
+	<iostream>
+
